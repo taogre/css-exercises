@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(0, 0, 250);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(150, 255, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
